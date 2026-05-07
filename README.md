@@ -21,7 +21,7 @@ As a result they create rhythmic movement even though the piece is static.
 ### *Compsition VIII*
 ![Image of Composition 8 by Wassily Kadinsky](readmeImages/Image2.png)
 
-In my assessment want to incorporate is the layering of circles, lines, and sharp geometric forms to build a **dynamic abstract composition.** This technique suits our assignment because Kandinsky’s **structured** yet **expressive** compositions can **translate effectively into code** while allowing creative reinterpretation through techniques we learnt like:
+In my assessment I want to incorporate the layering of circles, lines, and sharp geometric forms to build a **dynamic abstract composition.** This technique suits our assignment because Kandinsky’s **structured** yet **expressive** compositions can **translate effectively into code** while allowing creative reinterpretation through techniques we learnt like:
 - Animation
 - Interactivity
 - Audio reactivity 
