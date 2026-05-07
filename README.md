@@ -12,7 +12,7 @@
 
 As a result they create rhythmic movement even though the piece is static. 
 
-_(As show in Images below)_
+###### _(As show in Images below)_
 
 ### *Several Circles*
 ![Image of Several Circles by Wassily Kadinsky](readmeImages/Image1.png)
@@ -35,7 +35,7 @@ Overall, his artwork provides a strong balance between artistic expression and c
 
  The function that I found that works well with Kandinsky's work is the **buildGeometry()** function in p5.js, which stores shapes into a 3D model that can be efficiently used and reused. 
 
- _(As show in Images below)_
+ ###### _(As show in Images below)_
  ### *BuildGeometry example by Dave Pagurek*
  ![Screenshot of buildGeometry example](readmeImages/Image3.png)
  
